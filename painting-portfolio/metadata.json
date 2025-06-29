@@ -1,0 +1,6 @@
+{
+  "name": "Painting Portfolio",
+  "description": "A minimalist web application to showcase a portfolio of paintings. Users can view paintings in a grid and click on them to see more details in a modal view.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
